@@ -104,21 +104,6 @@ A **three-move, two-quarter** policy package:
 
 ---
 
-## How to Reproduce
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/<your-username>/digital-lending-portfolio-optimization.git
-
-# 2. Install Python dependencies
-pip install pandas numpy
-
-# 3. Generate the dataset and run the analysis
-python python/generate_data.py
-python analysis/analyze.py
-```
-
----
 
 ## Acknowledgements
 
@@ -128,4 +113,4 @@ Project brief by the **Consulting & Analytics Club, IIT Guwahati**.
 
 ## Authors
 
-**<Your Name>** · **<Teammate 2>** · **<Teammate 3>**
+**PALLAV PRATIBH** · **MANNAT SHRIVASTAV** · **KAPIL PARODA**
