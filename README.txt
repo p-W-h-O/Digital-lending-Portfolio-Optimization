@@ -1,5 +1,6 @@
 Digital Lending: Portfolio Optimization — reproducibility bundle
-================================================================
+
+
 dataset/
   customers.csv          24,000 borrowers: geography, income proxy, employment,
                          bureau band, cash-flow consistency, balance volatility,
@@ -17,4 +18,4 @@ code/
                          sweet spots, vintage curves, EWS backtest, policy simulation
   summary.json           every number used in the report and deck, as computed
 
-Run order: python generate_data.py && python analyze.py  (numpy + pandas required)
+
